@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\StrAlgData\\6\\SiAod 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CEE4E8-387D-4814-B98B-48FABDFB2507}|SiAod 6\\SiAod 6.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\StrAlgData\\6\\SiAod 6\\SiAod 6\\SiAod 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6CEE4E8-387D-4814-B98B-48FABDFB2507}|SiAod 6\\SiAod 6.vcxproj|solutionrelative:SiAod 6\\SiAod 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiAod 6.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\StrAlgData\\6\\SiAod 6\\SiAod 6\\SiAod 6.cpp",
+              "RelativeDocumentMoniker": "SiAod 6\\SiAod 6.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\StrAlgData\\6\\SiAod 6\\SiAod 6\\SiAod 6.cpp",
+              "RelativeToolTip": "SiAod 6\\SiAod 6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:46:45.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
