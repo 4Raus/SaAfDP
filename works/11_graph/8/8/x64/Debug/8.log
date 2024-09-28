@@ -1,0 +1,4 @@
+﻿  8.cpp
+C:\Users\ASUS\Desktop\UNI\СурГу\Siaod\8\8\8\8.cpp(234,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\UNI\СурГу\Siaod\8\8\8\8.cpp(585,9): warning C4068: неизвестная прагма "argsused"
+  8.vcxproj -> C:\Users\ASUS\Desktop\UNI\СурГу\Siaod\8\8\x64\Debug\8.exe
